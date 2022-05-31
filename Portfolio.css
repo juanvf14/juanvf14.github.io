@@ -1,0 +1,17 @@
+h1, p, hr, pre {
+    color: red;
+    
+}
+body {
+    background-color: black;
+}
+div.titulo{
+    display: flexbox;
+    width: 50%;
+    text-align: center;
+}
+div.contenido{
+    display: flexbox;
+    width: 50%;
+    text-align: left;
+}
