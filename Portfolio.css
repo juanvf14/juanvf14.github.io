@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1, p, hr, pre {
     color: red;
     
@@ -14,4 +15,22 @@ div.contenido{
     display: flexbox;
     width: 50%;
     text-align: left;
+=======
+h1, p, hr, pre {
+    color: red;
+    
+}
+body {
+    background-color: black;
+}
+div.titulo{
+    display: flexbox;
+    width: 50%;
+    text-align: center;
+}
+div.contenido{
+    display: flexbox;
+    width: 50%;
+    text-align: left;
+>>>>>>> e77f201c444bfc970f744fec80059ac56133c75c
 }
